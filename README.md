@@ -1,6 +1,7 @@
 ## Hi there 👋
 <!--
 **wiktoria-gliniecka/wiktoria-gliniecka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 Here are some ideas to get you started:
 - 🔭 I’m currently working on building my skills in data analysis and visualization.
 - 🌱 I’m currently learning Python, R, SQL, and Power BI.
@@ -10,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: connect on [LinkedIn](https://www.linkedin.com/in/wiktoria-gliniecka/?locale=en_US).
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Passionate about tenis and traveling.
--->
+
 
 # Wiktoria Gliniecka
 

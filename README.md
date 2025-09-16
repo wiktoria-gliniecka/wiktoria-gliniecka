@@ -9,14 +9,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with real-world data analytics challenges.
 - 💬 Ask me about payroll, HR processes, and transitioning into data analytics.
 - 📫 How to reach me: connect on [LinkedIn](https://www.linkedin.com/in/wiktoria-gliniecka/?locale=en_US).
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Passionate about tenis and traveling.
 
 
 # Wiktoria Gliniecka
 
 ### About Me
-I am transitioning into a data analyst role with a strong foundation in payroll, HR administration, and finance. I am passionate about leveraging data to drive insights and optimize processes. Currently, I’m expanding my skills in data analysis, visualization, and programming.
+I am transitioning into a data analyst role with a strong foundation in payroll, HR administration, and finance. I am passionate about leveraging data to drive insights and optimize processes. Currently, I’m expanding my skills in data analysis and visualization.
 
 ### Skills & Learning Focus
 - Data analysis with Python (Pandas, NumPy)
